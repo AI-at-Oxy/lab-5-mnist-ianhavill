@@ -1,0 +1,23 @@
+artifact_path: /mnt/c/Users/ianh/Desktop/Deep Learning Class/lab-5-mnist-ianhavill/mlruns/3/models/m-aa3176c0b99a402c8bc1e67762578e5c/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.20
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.8.0
+mlflow_version: 3.10.1
+model_id: m-aa3176c0b99a402c8bc1e67762578e5c
+model_size_bytes: 1827085
+model_uuid: m-aa3176c0b99a402c8bc1e67762578e5c
+prompts: null
+run_id: c8dbf093a110416eb9ab830875e5ac1c
+utc_time_created: '2026-03-24 04:45:07.070245'
